@@ -1,0 +1,6 @@
+name: gaming
+type: apt
+sources:
+  - packages:
+    - steam
+    - mangohud
