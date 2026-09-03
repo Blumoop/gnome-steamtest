@@ -90,6 +90,7 @@ stages:
       - modules/170-gnome-software-vso-plugin.yml
       - modules/997-misc-setup.yml
       - modules/999-cleanup.yml
+      - modules/69-gaming.yml
 
   - name: cleanup-and-sysconf-setup
     type: shell
